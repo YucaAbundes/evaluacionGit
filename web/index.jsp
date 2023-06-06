@@ -33,5 +33,8 @@
             <td>Julio</td>
         </tr>
     </table>
+
+    <a href="imagen.jsp">Ver imagen</a>
+
 </body>
 </html>
